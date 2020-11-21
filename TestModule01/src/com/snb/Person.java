@@ -9,5 +9,5 @@ package com.snb;
 public class Person {
     private String name;
     private int age;
-    private double height;
+    private double weigth;
 }
